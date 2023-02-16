@@ -1,0 +1,21 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "los 5 fundamentos de solid",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanSarmiento/Back-end.git"
+  },
+  "author": "johan sarmiento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanSarmiento/Back-end/issues"
+  },
+  "homepage": "https://github.com/johanSarmiento/Back-end#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
